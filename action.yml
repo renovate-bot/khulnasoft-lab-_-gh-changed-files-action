@@ -1,4 +1,4 @@
-name:        'Changed Files Action'
+name:        'GitHub Changed Files Action'
 description: 'Saves lists of changed files as JSON for use by other actions.'
 author:      'Md Sulaiman <infosulaimanbd@gmail.com>'
 runs:
